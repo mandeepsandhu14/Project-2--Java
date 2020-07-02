@@ -39,7 +39,7 @@ p{
 }
 
 form input[type="text"] {
-  width=90px;
+  width:90px;
 }
 
 input {
@@ -62,7 +62,7 @@ input {
 
 #peopleamt {
   
-  witdth: 60%;
+  width: 60%;
   padding: 5px 5px 8px 8 px;
   margin-left: 20px;
   color: red;
